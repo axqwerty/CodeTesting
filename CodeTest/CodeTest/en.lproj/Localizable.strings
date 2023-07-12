@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  CodeTest
+
+  Created by Alex on 13/7/2023.
+  
+*/
+
+"search_placeholder" = "Search Song/Album/Arts..";
+"home" = "Home";
+"favorite" = "Favorite";

@@ -16,14 +16,16 @@ class ViewController: UIViewController {
     
     lazy var homeTab: TabbarItem = {
         let tab = TabbarItem()
-        tab.name = "Home"
+        let name = NSLocalizedString("home", comment: "name")
+        tab.name = name
         tab.image = UIImage(systemName: "house")
         return tab
     }()
     
     lazy var favoriteTab: TabbarItem = {
         let tab = TabbarItem()
-        tab.name = "Favorite"
+        let name = NSLocalizedString("favorite", comment: "favorite")
+        tab.name = name
         tab.image = UIImage(systemName: "heart")
         return tab
     }()

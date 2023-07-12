@@ -1,0 +1,11 @@
+/* 
+  Localizable.strings
+  CodeTest
+
+  Created by Alex on 13/7/2023.
+  
+*/
+
+"search_placeholder" = "搜索歌曲/专辑/创作者...";
+"home" = "主页";
+"favorite" = "喜欢";
